@@ -1,0 +1,16 @@
+.catalog{
+    width: 90%;
+    display:flex;
+    margin: 10px 40px;
+}
+
+.catalog-filter{
+    width:90%;
+}
+
+.catalog-items{
+    display: flex;
+    justify-content: center;    
+    gap: 50px;
+    flex-wrap: wrap;
+}
